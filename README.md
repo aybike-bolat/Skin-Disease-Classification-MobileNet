@@ -23,3 +23,17 @@ The model successfully identified a "Melanocytic Nevi" with a confidence score.
 - Python, TensorFlow, Keras
 - Kaggle (Training), Google Colab (Testing)
 - Matplotlib (Visualization)
+
+- ## 📦 Trained Models
+Due to file size limits on GitHub, all trained models are hosted on Google Drive. 
+You can access and download them from the link below:
+
+[Click here to access Trained Models Folder](## 📦 Trained Models
+Due to file size limits on GitHub, all trained models are hosted on Google Drive. 
+You can access and download them from the link below:
+
+[Click here to access Trained Models Folder](## 📦 Trained Models
+Due to file size limits on GitHub, all trained models are hosted on Google Drive. 
+You can access and download them from the link below:
+
+[Click here to access Trained Models Folder](https://drive.google.com/drive/folders/1SnRYbHE_cqNf_AiEvEM2B1ioLCM8VD1Q?usp=sharing)
